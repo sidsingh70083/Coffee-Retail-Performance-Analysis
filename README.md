@@ -1,5 +1,11 @@
 # Coffee Retail Performance Dashboard
 
+
+
+https://github.com/user-attachments/assets/1d3eda3a-b6ae-4c02-aec2-01a27bd68846
+
+
+
 ## 🎯 Business Objective
 The primary objective of this project is to transform raw coffee sales data into an interactive and actionable business intelligence tool. This dashboard, built entirely in Microsoft Excel, empowers a coffee company's management team to move beyond static reports, allowing them to dynamically analyze sales performance, identify key trends, and uncover insights related to product, customer, and regional sales.
 
