@@ -32,6 +32,6 @@ This project demonstrates my ability to:
 * **Business Acumen:** Connect data points to understand business performance and identify patterns.
 
 ## 📁 How to Use
-1.  Download the `.xlsx` file.
+1.  Download the `Dashboard.xlsx` file.
 2.  Open the file in a compatible version of Microsoft Excel.
 3.  Click on any of the Slicers (Roast Type, Size, Loyalty Card) or drag the Date Timeline to interact with the data and see the charts update in real-time.
